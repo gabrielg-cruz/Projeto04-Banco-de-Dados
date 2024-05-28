@@ -1,0 +1,1 @@
+SELECT ID, PrimeiroNome, UltimoNome, Genero FROM Atores WHERE Genero = 'F'
